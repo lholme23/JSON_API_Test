@@ -1,0 +1,1 @@
+export const bankUser = {email: 'testuser2@yopmail.com', password: 'Pass2005#' };
